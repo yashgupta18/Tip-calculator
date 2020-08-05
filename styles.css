@@ -9,7 +9,7 @@ main{
     max-width: 50rem;
     margin: 2rem auto;
     background: linear-gradient(30deg,#3dc0c0,#5bceae);
-    padding: 3rem 1.6rem,6rem,1.6rem;
+    padding: 3rem 1.6rem 6rem 1.6rem;
     border-radius: 4rem;
     box-shadow: 0 2px 2px lightgray;
 }
